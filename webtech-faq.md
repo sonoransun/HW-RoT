@@ -28,7 +28,7 @@ A: Using multiple YubiKeys concurrently is problematic due to the way some of th
 
 Q: The YubiKey stored my keys securely. Does this mean I can use a sketchy kiosk at the hotel to login to my accounts without risk?
 
-A: Yes, the YubiKey keeps your secret keys secret. However, an established session on a compromised machine is still a session under the attacker's control, just as if they had stolen your authentication credentials (for the duration of the session).  Thus you should never you hardware you don't trust, no matter the security of the keys used.
+A: Yes, the YubiKey keeps your secret keys secret. However, an established session on a compromised machine is still a session under the attacker's control, just as if they had stolen your authentication credentials (for the duration of the session).  Thus you should never use hardware you don't trust, no matter the security of the keys used.
 
 ---
 
