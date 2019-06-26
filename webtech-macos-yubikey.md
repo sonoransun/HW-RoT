@@ -1,6 +1,6 @@
 # YubiKey Authentication on macOS
 
-Apple's flagship operating system, macOS, supports authentication via hardware root of trust using the Personal Identity Verification capabilities of the OS.  This is commonly referred to as SmartCard verification, however, the YubiKey can also function as a PIV device, just like a SmartCard.
+Apple's flagship operating system, macOS, supports authentication via hardware root of trust using the Personal Identity Verification capabilities of the OS.  This is commonly referred to as SmartCard authentication, however, the YubiKey can also function as a PIV device, just like a SmartCard.
 
 ## Setting up your YubiKey 5 device
 
