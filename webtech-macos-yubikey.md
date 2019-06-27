@@ -14,6 +14,8 @@ Configuration of your YubiKey 5 device requires a software application called Yu
 Launch the YubiKey Manager application to configure enabled interfaces on the YubiKey.
  Disable all of the NFC interfaces, as this tutorial only requires USB device access.
 
+NOTE: Also disable OTP support to avoid macOS thinking a keyboard was inserted when you are using the YubiKey. OTP is not required for this tutorial.
+
 [![Configure enabled YubiKey interfaces](/img/yubikey-interfaces.png "Configure enabled YubiKey interfaces")](/img/yubikey-interfaces.png)
 
 ### Set new YubiKey PIN, PUK, and Key
