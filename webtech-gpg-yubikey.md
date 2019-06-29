@@ -21,11 +21,11 @@ Create an ephemeral volume **CryptStorage** on file backed disk volume **Ephemer
 
 The Disk Utility application is used to create an ephemeral encrypted volume. Keys generated for this tutorial and stored on the ephemeral volume can be safely forgotten once that volume is deleted.
 
-[![Create new disk volume](/img/disk-utility-new.png "Create new disk volume")](/img/disk-utility-new-disk.png)
+[![Create new disk volume](/img/disk-utility-new-disk.png "Create new disk volume")](/img/disk-utility-new-disk.png)
 
 ### Configure new volume details
 
-[![Configure new disk volume details](/img//home/user/Documents/img-webtech-sshots/disk-utility-ephemeral-disk-setup.png "Configure new volume details")](/img//home/user/Documents/img-webtech-sshots/disk-utility-ephemeral-disk-setup.png)
+[![Configure new disk volume details](/img/disk-utility-ephemeral-disk-setup.png "Configure new volume details")](/img/disk-utility-ephemeral-disk-setup.png)
 
 ### Configure random ephemeral password
 
